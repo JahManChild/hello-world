@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 cmake_minimum_required(VERSION 2.8.11)
 project(HelloWorld)
 add_executable(HelloWorld helloworld.cpp)
+=======
+cmake_minimum_required(VERSION 2.8.11)
+project(HelloWorld)
+add_executable(HelloWorld helloworld.cpp)
+>>>>>>> cf50875a2476cea1d182a3bd7b9da768fff63823
